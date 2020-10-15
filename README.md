@@ -6,6 +6,10 @@ Recursos para implementar um sistema de busca de palavras, tags e marcação de 
 Esse exemplo pode ser importado e estará 100% funcional.
 Ele faz uso de arquivos que estão dentro do projeto no arquivo jqMarcador_zip.
 
+# Tela
+
+![Exemplo de Uso](https://github.com/darosaweb/marcadorDeTexto/blob/main/ProjedoDemoJquery_MarcadorTexto.png)
+
 # Exemplo de Uso
 
 Esse código foi criado inicialmente para auxiliar o trabalho de advogados na leitura de longos textos de Publicações.
