@@ -17,4 +17,11 @@ No vídeo em anexo é possível ver uma demonstração.
 
 Esse código é totalmente compatível com Work With Plus e GAM.
 
-Boa sorte
+# Recursos externos
+
+* https://www.jqueryscript.net/form/Input-Tokenizer-Plugin-jQuery.html
+* https://www.jqueryscript.net/text/progressively-highlight-text-marker-animation.html
+* Web Extension Toolkit 
+
+
+**Boa sorte**
